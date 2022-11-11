@@ -1,0 +1,6 @@
+hurry==1.1
+keystone==22.0.0
+prompt_toolkit==3.0.32
+Pygments==2.13.0
+rich==12.6.0
+unicorn==2.0.0
